@@ -35,70 +35,42 @@ class GhaithTayem:
 
 ## ⚔️ Tech Arsenal
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 **Languages**
-```
-Python · TypeScript · JavaScript
-```
+
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
 
 **Frontend**
-```
-Next.js · React · Tailwind CSS
-React Native · Electron · Expo
-```
+
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev)
+[![Electron](https://skillicons.dev/icons?i=electron)](https://electronjs.org)
 
 **Backend**
-```
-NestJS · FastAPI · Node.js
-REST API · WebSocket
-```
 
-</td>
-<td valign="top" width="33%">
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 
 **AI / ML**
-```
-PyTorch · TensorFlow
-Scikit-learn · Pandas · NumPy
-Siamese Networks · DAE · RAG
-```
 
-**Databases**
-```
-PostgreSQL · MySQL
-Redis · Prisma · ChromaDB
-```
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
 
-**Security Research**
-```
-Weight Steganography Analysis
-Malware Detection in DL Models
-Adversarial ML · Model Hardening
-```
+**Databases & Infra**
 
-</td>
-<td valign="top" width="33%">
-
-**DevOps & Infra**
-```
-Docker · GitHub Actions
-Turborepo · Cloudflare Tunnel
-Linux · Vercel · Render
-```
-
-**Architecture**
-```
-Multi-tenant SaaS
-Monorepo · RBAC
-Offline-first · Schema-per-tenant
-```
-
-</td>
-</tr>
-</table>
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 
 ---
 
